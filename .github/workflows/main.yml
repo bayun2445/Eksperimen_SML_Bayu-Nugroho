@@ -25,4 +25,5 @@ jobs:
 
       - name: Run automate.py
         run: |
+          cd ./preprocessing
           python automate_Bayu-Nugroho.py
