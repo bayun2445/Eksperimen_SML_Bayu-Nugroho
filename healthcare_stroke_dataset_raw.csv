@@ -3263,7 +3263,7 @@ id,gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,a
 6011,Male,9,0,0,No,children,Urban,78.24,15.3,Unknown,0
 14376,Male,47,0,0,Yes,Private,Rural,88.49,22.2,smokes,0
 22052,Female,75,1,0,No,Self-employed,Rural,91.85,21.4,formerly smoked,0
-24836,Female,61,0,0,Yes,Private,Rural,72.01,26,formerly smoked,0
+24836,Female,61,0,0,Yes,Private,Rural,75.00,26,formerly smoked,0
 11861,Male,61,0,0,Yes,Self-employed,Rural,81.96,29.9,never smoked,0
 25613,Female,27,0,0,Yes,Private,Urban,70.56,28.6,smokes,0
 71496,Female,55,0,0,Yes,Private,Urban,71.02,21.2,never smoked,0
